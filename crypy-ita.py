@@ -1,5 +1,5 @@
 #programmatori:
-#Andrea Dipace
+#Andrea Dipace             email:<dipace.skrillex@gmail.com>
 #Oscar Andrea Merandi      email:<oscar.andrea@hotmail.it>
 #Agostino  "B50D" Di Lillo    email:<dilillo.agostino@gmail.com>
 
